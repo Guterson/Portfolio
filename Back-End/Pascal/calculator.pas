@@ -144,7 +144,7 @@ program calculadora;
       end
      else
       begin
-       (* Valor arbitrario fora do conjunto imagem da fun‡Æo *)
+       (* Valor arbitrario fora do conjunto imagem da funâ€¡Ã†o *)
        msg := 'erro';
       end;
     end
