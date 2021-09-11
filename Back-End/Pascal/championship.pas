@@ -42,10 +42,10 @@ program campeonato; //Championship
      p2:= (3*v2) + (e2) + (0*d2); // Compute second team's championship punctuation 
      writeln(' ');
      if p1>p2 then
-       writeln(' O ',t1,' ‚ campeao ! ') // First team is the champion!
+       writeln(' O ',t1,' â€š campeao ! ') // First team is the champion!
      else
          if p1<p2 then
-           writeln(' O ',t2,' ‚ campeao ! ') // Second team is the champion!
+           writeln(' O ',t2,' â€š campeao ! ') // Second team is the champion!
 
          else
            writeln(' Deu empate ! '); // It's a draw!
