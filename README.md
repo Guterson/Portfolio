@@ -44,7 +44,7 @@ Undergraduate in Electronics and Computing Engineering, music and games enthusia
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/lopes-gutemberg-machado)
 
-[1]: https://github.com/Guterson/Portfolio/blob/main/README.md#Att
-#Att
+[1]: https://github.com/Guterson/Portfolio/blob/main/README.md#att
+##Att
 
 Last Update: 24/10/2021
