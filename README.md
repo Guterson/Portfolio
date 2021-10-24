@@ -11,7 +11,7 @@ This is my personal repository where I show my past/current/planned personal (co
 * Unreal 4 personal projects. (ADD TO REPO.)(Link)
 * (Digital Signal Processing) Musical Sintesizer (Keyboard), undergraduate class project. (ADD Link)
 
-## Doing now (sorted by [current](1) priority)
+## Doing now (sorted by [current][1] priority)
 
 * Learning Git/Github functionalities.
 * Learning Python/Libs/Notebooks functionalities.
@@ -20,7 +20,7 @@ This is my personal repository where I show my past/current/planned personal (co
 * (Digital Signal Processing) Singing voice synthesis composition software, undergraduate thesis. (Inspired by Yamaha's VOCALOID project)
 * (Front-End) HTML/CSS showcase.
 
-## Planning to do (sorted by [current](1) priority)
+## Planning to do (sorted by [current][1] priority)
 
 * Review SQL.
 * Review Data Science/AI.
