@@ -11,7 +11,7 @@ This is my personal repository where I show my past/current/planned personal (co
 * Unreal 4 personal projects. (ADD TO REPO.)(Link)
 * (Digital Signal Processing) Musical Sintesizer (Keyboard), undergraduate class project. (ADD Link)
 
-## Doing now (sorted by [current](.) priority)
+## Doing now (sorted by [current](1) priority)
 
 * Learning Git/Github functionalities.
 * Learning Python/Libs/Notebooks functionalities.
@@ -20,7 +20,7 @@ This is my personal repository where I show my past/current/planned personal (co
 * (Digital Signal Processing) Singing voice synthesis composition software, undergraduate thesis. (Inspired by Yamaha's VOCALOID project)
 * (Front-End) HTML/CSS showcase.
 
-## Planning to do (sorted by [current](.) priority)
+## Planning to do (sorted by [current](1) priority)
 
 * Review SQL.
 * Review Data Science/AI.
@@ -44,6 +44,7 @@ Undergraduate in Electronics and Computing Engineering, music and games enthusia
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/lopes-gutemberg-machado)
 
+[1]: https://github.com/Guterson/Portfolio/blob/main/README.md#
 # .
 
 Last Update: 24/10/2021
