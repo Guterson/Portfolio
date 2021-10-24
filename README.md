@@ -16,7 +16,7 @@ This is my personal repository where I show my past/current/planned personal (co
 * Learning Git/Github functionalities.
 * Learning Python/Libs/Notebooks functionalities.
 * (Digital Signal Processing) Perceptual audio codec, master's class project. (Based in Marina Bosi, Intro.(Link))
-* * Review Excel.
+* Review Excel.
 * (Digital Signal Processing) Singing voice synthesis composition software, undergraduate thesis. (Inspired by Yamaha's VOCALOID project)
 * (Front-End) HTML/CSS showcase.
 
@@ -44,7 +44,7 @@ Undergraduate in Electronics and Computing Engineering, music and games enthusia
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/lopes-gutemberg-machado)
 
-[1]: https://github.com/Guterson/Portfolio/blob/main/README.md#att
-## Att
+[1]: https://github.com/Guterson/Portfolio/blob/main/README.md#lu
+## Lu
 
 Last Update: 24/10/2021
