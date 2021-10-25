@@ -6,18 +6,18 @@ This is my personal repository where I show my past/current/planned personal (co
 
 ## Done sometime (chronological order)
 
-* (Procedural) Pascal undergraduate class exercises. (ADD Link)
-* (Object-oriented) C++ undergraduate class exercises. (ADD TO REPO.)(ADD Link)
-* Unreal 4 personal projects. (ADD TO REPO.)(Link)
-* (Digital Signal Processing) Musical Sintesizer (Keyboard), undergraduate class project. (ADD Link)
+1. (Procedural) Pascal undergraduate class exercises. (ADD Link)
+2. (Object-oriented) C++ undergraduate class exercises. (ADD TO REPO.)(ADD Link)
+3. Unreal 4 personal projects. (ADD TO REPO.)(Link)
+4. (Digital Signal Processing) Musical Sintesizer (Keyboard), undergraduate class project. (ADD Link)
 
 ## Doing now (sorted by [current][1] priority)
 
 * Learning Git/Github functionalities.
 * Learning Python/Libs/Notebooks functionalities.
-* (Digital Signal Processing) Perceptual audio codec, master's class project. (Based in Marina Bosi, Intro.(Link))
+* (Digital Signal Processing) Perceptual audio codec, master's class project. (Based in [Marina Bosi](https://www.amazon.com/Introduction-Digital-Audio-Coding-Standards/dp/1461350220))
 * Review Excel.
-* (Digital Signal Processing) Singing voice synthesis composition software, undergraduate thesis. (Inspired by Yamaha's VOCALOID project)
+* (Digital Signal Processing) Singing voice synthesis composition software, undergraduate thesis. (Inspired by Yamaha's [VOCALOID](http://www.vocaloid.com/en/) project)
 * (Front-End) HTML/CSS showcase.
 
 ## Planning to do (sorted by [current][1] priority)
@@ -26,7 +26,8 @@ This is my personal repository where I show my past/current/planned personal (co
 * Review Data Science/AI.
 * Learn Java/Javascript/Libs/Frameworks.
 * Learn C#.
-* Working with singing voice synthesis.
+* (Digital Signal Processing) DAFX Modules in Matlab/Octave, master's class project. (Based in [Udo Zölzer](https://www.amazon.com/DAFX-Digital-Effects-Udo-Zolzer/dp/0470665998))
+* Working with audio signal processing (singing voice synthesis).
 * Unreal 4 showcase.
 * Working with game programming/design.
 * Learn MatLab Extensions/Apps.
@@ -45,6 +46,6 @@ Undergraduate in Electronics and Computing Engineering, music and games enthusia
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/lopes-gutemberg-machado)
 
 [1]: https://github.com/Guterson/Portfolio/blob/main/README.md#lu
-## Lu
+## LU
 
 Last Update: 24/10/2021
