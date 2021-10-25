@@ -9,7 +9,7 @@ This is my personal repository where I show my past/current/planned personal (co
 1. (Procedural) Pascal undergraduate class exercises. (ADD Link)
 2. (Object-oriented) C++ undergraduate class exercises. (ADD TO REPO.)(ADD Link)
 3. Unreal 4 personal projects. (ADD TO REPO.)(Link)
-4. (Digital Signal Processing) Musical Sintesizer (Keyboard), undergraduate class project. (ADD Link)
+4. (Digital Signal Processing) Musical sintesizer 🎹 in Matlab/Octave, undergraduate class project. (ADD Link)
 
 ## Doing now (sorted by [current][1] priority)
 
@@ -17,7 +17,7 @@ This is my personal repository where I show my past/current/planned personal (co
 * Learning Python/Libs/Notebooks functionalities.
 * (Digital Signal Processing) Perceptual audio codec, master's class project. (Based in [Marina Bosi](https://www.amazon.com/Introduction-Digital-Audio-Coding-Standards/dp/1461350220))
 * Review Excel.
-* (Digital Signal Processing) Singing voice synthesis composition software, undergraduate thesis. (Inspired by Yamaha's [VOCALOID](http://www.vocaloid.com/en/) project)
+* (Digital Signal Processing) Singing voice synthesis composition software 🎼, undergraduate thesis. (Inspired by Yamaha's [VOCALOID](http://www.vocaloid.com/en/) project)
 * (Front-End) HTML/CSS showcase.
 
 ## Planning to do (sorted by [current][1] priority)
@@ -39,11 +39,9 @@ This is my personal repository where I show my past/current/planned personal (co
 
 ## About me
 
-Undergraduate in Electronics and Computing Engineering, music and games enthusiastic, Studying Audio Signal Processing, looking for internship in this field, specially, in sound, voice and singing voice synthesis projects.
+Undergraduate in Electronics and Computing Engineering, 🎵 music and 🎮 games enthusiastic, Studying Audio Signal Processing, looking for internship in this field, specially, in sound, voice and singing voice synthesis projects.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/Guterson)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/lopes-gutemberg-machado)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/Guterson) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopes-gutemberg-machado)
 
 [1]: https://github.com/Guterson/Portfolio/blob/main/README.md#lu
 ## LU
