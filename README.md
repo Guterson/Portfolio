@@ -6,10 +6,10 @@ This is my personal repository where I show my past/current/planned personal (co
 
 ## Done sometime (chronological order)
 
-1. (Procedural) Pascal undergraduate class exercises. (ADD Link)
+1. (Procedural) Pascal undergraduate [class exercises](https://github.com/Guterson/Portfolio/tree/main/Back-End/Pascal).
 2. (Object-oriented) C++ undergraduate class exercises. (ADD TO REPO.)(ADD Link)
 3. Unreal 4 personal projects. (ADD TO REPO.)(Link)
-4. (Digital Signal Processing) Musical sintesizer 🎹 in Matlab/Octave, undergraduate class project. (ADD Link)
+4. (Digital Signal Processing) Musical sintesizer 🎹 in Matlab/Octave, undergraduate [class project](https://github.com/Guterson/Portfolio/tree/main/Processamento%20de%20Sinais/%C3%81udio/S%C3%ADntese).
 
 ## Doing now (sorted by [current][1] priority)
 
