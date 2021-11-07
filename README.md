@@ -39,7 +39,7 @@ This is my personal repository where I show my past/current/planned personal (co
 
 ## About me
 
-Undergraduate in Electronics and Computing Engineering, 🎵 music and 🎮 games enthusiastic, Studying Audio Signal Processing, looking for internship in this field, specially, in sound, voice and singing voice synthesis projects.
+Undergraduate in Electronics and Computing Engineering, 🎵 music and 🎮 games enthusiastic, studying Audio Signal Processing, looking for internship in this field, specially, in sound, voice and singing voice synthesis projects.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/Guterson) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopes-gutemberg-machado)
 
