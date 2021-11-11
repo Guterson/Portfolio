@@ -1,6 +1,6 @@
 # Digital Music Synthesizer
 
-![MSAdd01 poster](https://user-images.githubusercontent.com/47084392/140390371-3b3a9c17-df54-46d2-9f0f-e9dae59f60ba.jpeg)
+[![MSAdd01 poster](https://user-images.githubusercontent.com/47084392/140390371-3b3a9c17-df54-46d2-9f0f-e9dae59f60ba.jpeg)](https://www.youtube.com/watch?v=aRxYyoh3M70)
 
 ## About
 
@@ -13,5 +13,5 @@ There are two manuals, one for the [user](https://github.com/Guterson/Portfolio/
 ## Credits
 
 * Sintesizer: Gutemberg Machado Lopes :brazil:
-* Graphical and keyboard interface: Jonathan da Silva Cuellar :brazil:
+* Video, Graphical and keyboard interface: Jonathan da Silva Cuellar :brazil:
 * Poster and timbres: Leonardo Barreto Alves :brazil:
