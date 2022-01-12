@@ -14,12 +14,12 @@ This is my personal repository where I show my past/current/planned personal (co
 ## Doing now (sorted by [current][1] priority)
 
 * Learning Git/Github functionalities.
-* Learning Python/Libs/Notebooks functionalities.
+* Learning Python Libs.
 * Review Excel.
 * (Digital Signal Processing) Singing voice synthesis composition software 🎼, undergraduate thesis. (Inspired by Yamaha's [VOCALOID](http://www.vocaloid.com/en/) project)
 * (Digital Signal Processing) DAFX Modules in Matlab/Octave, master's class project. (Based in [Udo Zölzer](https://www.amazon.com/DAFX-Digital-Effects-Udo-Zolzer/dp/0470665998))
 * (Digital Signal Processing) Perceptual audio codec, master's class project. (Based in [Marina Bosi](https://www.amazon.com/Introduction-Digital-Audio-Coding-Standards/dp/1461350220))
-* Learning JavaScript/Libs/Frameworks.
+* Learning JavaScript Libs/Frameworks.
 * (Front-End) HTML/CSS showcase.
 
 ## Planning to do (sorted by [current][1] priority)
@@ -46,4 +46,4 @@ Undergraduate in Electronics and Computing Engineering, 🎵 music and 🎮 game
 [1]: https://github.com/Guterson/Portfolio/blob/main/README.md#lu
 ## LU
 
-Last Update: 07/12/2021
+Last Update: 12/01/2022
