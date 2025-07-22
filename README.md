@@ -7,12 +7,11 @@ This is my personal repository where I show my past/current/planned personal (co
 ## Done sometime (chronological order)
 
 1. Pascal undergraduate [class exercises](https://github.com/Guterson/Portfolio/tree/main/Back-End/Pascal).
-2. C++ undergraduate class exercises. (ADD TO REPO.)(ADD Link)
-3. Musical sintesizer 🎹 in Matlab/Octave, undergraduate [class project](https://github.com/Guterson/Portfolio/tree/main/Processamento%20de%20Sinais/%C3%81udio/S%C3%ADntese).
-4. Singing voice synthesis Python script 🎼, [undergraduate thesis](https://github.com/Guterson/Singing-Voice-Synthesis-in-Brazilian-Portuguese-by-Concatenation-of-Acoustic-Units). (Inspired by Yamaha's [VOCALOID](http://www.vocaloid.com/en/) project)
-5. DAFX Modules in Matlab/Octave, master's class project. (From [Udo Zölzer](https://www.amazon.com/DAFX-Digital-Effects-Udo-Zolzer/dp/0470665998))
-6. Perceptual audio codec, master's class project. (From [Marina Bosi](https://www.amazon.com/Introduction-Digital-Audio-Coding-Standards/dp/1461350220))
-7. Classes for teaching programming through Scratch 3.
+2. Musical sintesizer 🎹 in Matlab/Octave, undergraduate [class project](https://github.com/Guterson/Portfolio/tree/main/Processamento%20de%20Sinais/%C3%81udio/S%C3%ADntese).
+3. Singing voice synthesis Python script 🎼, [undergraduate thesis](https://github.com/Guterson/Singing-Voice-Synthesis-in-Brazilian-Portuguese-by-Concatenation-of-Acoustic-Units). (Inspired by Yamaha's [VOCALOID](http://www.vocaloid.com/en/) project)
+4. DAFX Modules in Matlab/Octave, master's class project. (From [Udo Zölzer](https://www.amazon.com/DAFX-Digital-Effects-Udo-Zolzer/dp/0470665998))
+5. Perceptual audio codec, master's class project. (From [Marina Bosi](https://www.amazon.com/Introduction-Digital-Audio-Coding-Standards/dp/1461350220))
+6. Classes for teaching programming through Scratch 3.
 
 ## Doing now (sorted by [current][1] priority)
 
